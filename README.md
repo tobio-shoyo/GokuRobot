@@ -14,9 +14,9 @@
 * Bot Link:  <a href="http://t.me/GokuxRobot" alt=" Goku "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Goku-blue" /> </a>
 * Support Channel: <a  href="https://t.me/XForceBots" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-XForce%20Update%20Channel-9cf" /> </a>
 
-## Deploy
-The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/STBxD/GokuXForceRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
- 
-## Staff
-  Goku's [Dev](https://t.me/God_STB)
+## Note:
+Future updates on the code have been moved to a seperate repository that is now private and away from the toxic, ungrateful and cancerous marie community, we believe we have burned out blood enough for the leecher community that just wants to take, debate and laugh while bringing nothing progressive back to the repository, in lieu of the same we are now closed sourced. 
+If you believe this is "illegal or is violating the GPLv3" license, I request you come to @OnePunchSupport on telegram WITH your lawyer to discuss the same.
+Good day! 
+  
+ ### Credits 
