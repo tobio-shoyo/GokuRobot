@@ -1,2 +1,2 @@
-worker: python3 -m TGRobot
-web: python3 -m TGRobot
+worker: python3 -m GokuRobot
+web: python3 -m GokuRobot
