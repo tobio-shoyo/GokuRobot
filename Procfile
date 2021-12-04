@@ -1,2 +1,2 @@
-worker: python3 -m GokuRobot
-web: python3 -m GokuRobot
+worker: python3 -m XForceSTB
+web: python3 -m XForceSTB
